@@ -6,6 +6,7 @@
  I am rebuilding it- The game is planned to have 3 Levels and 3 Bosses respectively.
  
 <h2> Our Protagonist:</h2>
+
 ![Meet Avi](https://user-images.githubusercontent.com/94353989/153606243-a9b3a60e-ad4d-499d-901b-9f3f5371ffb1.gif)
 
 
