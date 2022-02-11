@@ -6,9 +6,10 @@
  I am rebuilding it- The game is planned to have 3 Levels and 3 Bosses respectively.
  
 <h2> Our Protagonist:</h2>
- ![Meet Avi](https://user-images.githubusercontent.com/94353989/153606140-c0fa7830-de3a-4cb1-b226-a6056d606114.gif)
+![Meet Avi](https://user-images.githubusercontent.com/94353989/153606243-a9b3a60e-ad4d-499d-901b-9f3f5371ffb1.gif)
 
- This project is currently under development
+
+This project is currently under development
 
 Programming by Miazyn
 Art by Maike#6346 & Jul#3855
