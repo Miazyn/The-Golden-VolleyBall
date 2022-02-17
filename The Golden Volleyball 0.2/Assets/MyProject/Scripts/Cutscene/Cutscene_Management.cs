@@ -50,5 +50,23 @@ public class Cutscene_Management : MonoBehaviour
     {
         WhereAmIText.GetComponent<Text>().text = "But I found a note. It confused me but it was my only lead.";
         IsTextOnScreen = true;
+        Invoke("CutscenePartThree", 5f);
+    }
+
+    public void CutscenePartThree()
+    {
+        anima.Play("Cutscene_Part_Three",0,  0f);
+    }
+
+    public void CallPartThreeText()
+    {
+
+        Invoke("CutscenePartThreeText",  2f);
+    }
+
+    public void CutscenePartThreeText()
+    {
+        WhereAmIText.GetComponent<Text>().text = "I packed my bags and got on my way...";
+        IsTextOnScreen = true;
     }
 }
