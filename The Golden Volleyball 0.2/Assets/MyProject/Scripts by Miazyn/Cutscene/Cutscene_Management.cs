@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class Cutscene_Management : MonoBehaviour
 {
@@ -68,5 +69,11 @@ public class Cutscene_Management : MonoBehaviour
     {
         WhereAmIText.GetComponent<Text>().text = "I packed my bags and got on my way...";
         IsTextOnScreen = true;
+        Invoke("NextScene", 5f);
+    }
+
+    public void NextScene()
+    {
+        SceneManager.LoadScene("TutorialLevel",LoadSceneMode.Single);
     }
 }

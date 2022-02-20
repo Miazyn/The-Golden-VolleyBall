@@ -9,17 +9,17 @@ C:\Program Files\Unity\Hub\Editor\2020.3.20f1\Editor\Unity.exe
 -batchMode
 -noUpm
 -name
-AssetImportWorker2
+AssetImportWorker3
 -projectPath
 C:/Users/Mia/Documents/1_UNITY Projects/GitHub The Golden VolleyBall/The-Golden-VolleyBall/The Golden Volleyball 0.2
 -logFile
-Logs/AssetImportWorker2.log
+Logs/AssetImportWorker3.log
 -srvPort
-52782
+51043
 Successfully changed project path to: C:/Users/Mia/Documents/1_UNITY Projects/GitHub The Golden VolleyBall/The-Golden-VolleyBall/The Golden Volleyball 0.2
 C:/Users/Mia/Documents/1_UNITY Projects/GitHub The Golden VolleyBall/The-Golden-VolleyBall/The Golden Volleyball 0.2
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 1298.75 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 544.79 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.20f1 (41c4e627c95f)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/Resources/UnitySubsystems
@@ -31,3 +31,9 @@ Direct3D:
     Vendor:   
     VRAM:     4034 MB
     Driver:   27.20.100.8681
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56992
+Begin MonoManager ReloadAssembly

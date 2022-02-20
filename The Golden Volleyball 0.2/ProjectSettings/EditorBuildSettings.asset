@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/MyProject/Scenes/Starting_Cutscene.unity
     guid: a731a76d7e290b14e8757589edc74441
+  - enabled: 1
+    path: Assets/MyProject/Scenes/TutorialLevel.unity
+    guid: f7f671116d9d73c4dbf7dcae5a73fc58
   m_configObjects: {}
