@@ -576,3 +576,4 @@ Received Import Request.
 Start importing Assets/MyProject/Scenes/TutorialLevel.unity using Guid(f7f671116d9d73c4dbf7dcae5a73fc58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2d1a7cde1f5bd2b139e7ca1fe79a94d') in 0.016937 seconds 
   Import took 0.025055 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
